@@ -3,7 +3,7 @@
 <br>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
 x-------------------------------------------x<br>
-x-----------The VAnlife Project-------------x<br>
+x-----------The Vanlife Project-------------x<br>
 x-------------------------------------------x<br>
 x-------------------------------------------x<br>
 x------------(c) 2022 JB Vidal--------------x<br>
